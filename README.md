@@ -87,9 +87,6 @@ house-price-prediction-ml/
 │   └── Housing.csv
 ├── notebooks/
 │   └── house_price_prediction.ipynb     # TODO: use your notebook's real file name
-├── reports/
-│   └── House_Price_Prediction_Report.pdf
-├── requirements.txt
 ├── .gitignore
 ├── LICENSE
 └── README.md
