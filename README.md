@@ -101,17 +101,8 @@ python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 jupyter notebook notebooks/house_price_prediction.ipynb
-```
-
-## Report
-
-The full write-up, with every stage, method, formula and experiment, is in [`reports/House_Price_Prediction_Report.pdf`](reports/House_Price_Prediction_Report.pdf).
 
 ## Tech stack
 
 Python, pandas, NumPy, scikit-learn, Matplotlib, Jupyter Notebook
 
-## Author
-
-**Raasheed Muhammad**
-LinkedIn: TODO-add-your-LinkedIn-URL | GitHub: TODO-add-your-GitHub-URL
